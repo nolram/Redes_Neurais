@@ -13,7 +13,7 @@
 gcc teste_xor.c -lfann -lm -o teste_xor && ./teste_xor
 gcc run_xor_teste.c -lfann -lm -o run_xor_teste && ./run_xor_teste
 ```
-
+------
 
 ### Arquivos AND
 
@@ -28,7 +28,7 @@ gcc run_xor_teste.c -lfann -lm -o run_xor_teste && ./run_xor_teste
 gcc teste_and.c -lfann -lm -o teste_and && ./teste_and
 gcc run_and_teste.c -lfann -lm -o run_and_teste && ./run_and_teste
 ```
-
+------
 
 ### Arquivos OR
 
@@ -43,7 +43,7 @@ gcc run_and_teste.c -lfann -lm -o run_and_teste && ./run_and_teste
 gcc teste_or.c -lfann -lm -o teste_or && ./teste_or
 gcc run_or_teste.c -lfann -lm -o run_or_teste && ./run_or_teste
 ```
-
+------
 
 ### Arquivos NAND
 
@@ -58,3 +58,4 @@ gcc run_or_teste.c -lfann -lm -o run_or_teste && ./run_or_teste
 gcc teste_nand.c -lfann -lm -o teste_nand && ./teste_nand
 gcc run_nand_teste.c -lfann -lm -o run_nand_teste && ./run_nand_teste
 ```
+------
